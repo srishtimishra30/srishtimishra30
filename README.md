@@ -18,7 +18,7 @@ Hi, I'm Srishti Mishra
 - Advanced Machine Learning
 - FastAPI Backend Development
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=srishtimishra30&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=srishtimishra30&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=srishtimishra30&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
