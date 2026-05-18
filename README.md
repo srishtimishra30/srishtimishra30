@@ -7,7 +7,7 @@ Hi, I'm Srishti Mishra
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:srishtimishra302004@gmail.com) 
 
 ## 📌 Projects:
-<br>[Portfolio](https://github.com/srishtimishra30/srishtimishra30) 
+[Portfolio](https://github.com/srishtimishra30/srishtimishra30) 
 <br>[AI_Based_Resume_Skill_Gap_Analyzer](https://github.com/srishtimishra30/AI_Based_Resume_Skill_Gap_Analyzer) 
 <br>[REST-API-Practice-](https://github.com/srishtimishra30/REST-API-Practice-) 
 <br>[Event-Management-GUI](https://github.com/srishtimishra30/Event-Management-GUI) 
