@@ -1,5 +1,7 @@
 # 💫 About Me:
-B.Tech IT student | Data Science & UX/UI Design | Python • SQL • AI/ML • Figma
+🎓 B.Tech IT undergraduate passionate about Data Science and UX/UI Design.
+I love turning raw data into insights using Python, SQL, AI/ML and Power BI, and building user-centered interfaces with Figma.
+Currently seeking internship opportunities in Data/Software roles.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srishti-mishra-67549b2a8/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:srishtimishra302004@gmail.com) 
