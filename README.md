@@ -1,6 +1,6 @@
 # ABOUT ME:
 Hi, I'm Srishti Mishra 
-<br>AI/ML Enthusiast | Python Developer | UI/UX Designer
+<br> Python Developer | UI/UX Designer
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srishti-mishra-67549b2a8/) 
