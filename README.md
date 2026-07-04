@@ -8,7 +8,8 @@ Hi, I'm Srishti Mishra
 
 ## 📌 Projects:
 🔹[Portfolio](https://github.com/srishtimishra30/srishtimishra30) 
-<br>🔹[AI_Based_Resume_Skill_Gap_Analyzer](https://github.com/srishtimishra30/AI_Based_Resume_Skill_Gap_Analyzer) 
+<br>🔹[Amazon India Sales Analytics](https://github.com/srishtimishra30/AI_Based_Resume_Skill_Gap_Analyzer) 
+<br>🔹[AI_Based_Resume_Skill_Gap_Analyzer](v) 
 <br>🔹[REST-API-Practice-](https://github.com/srishtimishra30/REST-API-Practice-) 
 <br>🔹[Event-Management-GUI](https://github.com/srishtimishra30/Event-Management-GUI) 
 
